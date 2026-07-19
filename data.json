@@ -4,37 +4,37 @@
   "nogi_news": [
     {
       "title": "ニュース",
-      "link": "https://www.nogizaka46.com/s/n46/news/list?ima=1732&dy=202607",
+      "link": "https://www.nogizaka46.com/s/n46/news/list?ima=3837&dy=202607",
       "date": ""
     },
     {
       "title": "スケジュール",
-      "link": "https://www.nogizaka46.com/s/n46/media/list?ima=1732&dy=202607",
+      "link": "https://www.nogizaka46.com/s/n46/media/list?ima=3837&dy=202607",
       "date": ""
     },
     {
       "title": "メンバー",
-      "link": "https://www.nogizaka46.com/s/n46/search/artist?ima=1732",
+      "link": "https://www.nogizaka46.com/s/n46/search/artist?ima=3837",
       "date": ""
     },
     {
       "title": "ディスコグラフィー",
-      "link": "https://www.nogizaka46.com/s/n46/artist/10001/discography?ima=1732",
+      "link": "https://www.nogizaka46.com/s/n46/artist/10001/discography?ima=3837",
       "date": ""
     },
     {
       "title": "ムービー",
-      "link": "https://www.nogizaka46.com/s/n46/contents_list?ima=1732&type=140",
+      "link": "https://www.nogizaka46.com/s/n46/contents_list?ima=3837&type=140",
       "date": ""
     },
     {
       "title": "ゲームアプリ",
-      "link": "https://www.nogizaka46.com/s/n46/page/game_app?ima=1732",
+      "link": "https://www.nogizaka46.com/s/n46/page/game_app?ima=3837",
       "date": ""
     },
     {
       "title": "ミート＆グリート",
-      "link": "https://www.nogizaka46.com/s/n46/live?ima=1732&ct=HANDSHAKE",
+      "link": "https://www.nogizaka46.com/s/n46/live?ima=3837&ct=HANDSHAKE",
       "date": ""
     },
     {
@@ -66,7 +66,7 @@
     }
   ],
   "nogi_blog": [],
-  "updated_at": "2026-07-19 19:17",
+  "updated_at": "2026-07-20 07:38",
   "_errors": {
     "note_articles": "404 Client Error: Not Found for url: https://note.com/nmique_sable9235/rss",
     "note_paid": "404 Client Error: Not Found for url: https://note.com/nmique_sable9235/rss",
